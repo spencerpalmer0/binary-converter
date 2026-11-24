@@ -21,3 +21,12 @@ Enter a number and select its original number system.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Convert decimal 10 to binary 1010.
+- [ ] Convert binary 1111 to decimal 15.
+- [ ] Reject input containing invalid digits for its base.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
